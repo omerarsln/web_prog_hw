@@ -1,0 +1,16 @@
+.guncel{
+    background-color: lightblue;
+    display: flex;
+    padding: 25px;
+}
+.guncel div{
+    margin: 0 auto;
+    padding: 5px;
+}
+.verticalLine{
+    border-left: 6px solid black;
+}
+.content{
+    color: red;
+    font-size: 25px;
+}
